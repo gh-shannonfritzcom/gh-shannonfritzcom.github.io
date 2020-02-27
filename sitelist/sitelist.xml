@@ -1,3 +1,11 @@
-<site url="yahoo.com">
-  <open-in app="true">IE11</open-in>
-</site>
+<site-list version="1">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>10.0.14357.1004</version>
+    <date-created>02/27/2020 22:37:57</date-created>
+  </created-by>
+  <site url="yahoo.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
